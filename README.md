@@ -28,8 +28,8 @@ Embora meu portfólio esteja em desenvolvimento, estou sempre trabalhando em nov
 
 ### 📫 Como me Encontrar  
 - [LinkedIn](https://linkedin.com/in/seu-perfil)  
-- E-mail: seuemail@exemplo.com  
-- [GitHub](https://github.com/seu-usuario)  
+- E-mail: leonardohenriquefr785.com  
+- [GitHub](https://github.com/LeonardoHenriqueFR01)  
 
 ### 🌟 Meus Valores  
 - **Aprendizado contínuo**: Sempre em busca de novos conhecimentos e habilidades.  
